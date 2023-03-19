@@ -13,17 +13,17 @@ The tech-stack used:
 ## Directory Structure
 
 ├── backend <br>
-│──────├── backend <br>
-│──────├── model <br>
-│──────├── manage.py <br>
+│────├─ backend <br>
+│────├─ model <br>
+│────├─ manage.py <br>
 │   
 ├── frontend <br>
 │   
 ├── models <br>
-│─────├── detector <br>
-│───────────└── dataset <br>
-│─────────────────└── images <br>
-│─────────────────└── styles.csv <br>
+│────├── detector <br>
+│──────────└── dataset <br>
+│───────────────└── images <br>
+│───────────────└── styles.csv <br>
 │     
 ├── config.py <br>
 │   
