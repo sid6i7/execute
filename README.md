@@ -1,7 +1,7 @@
 
 # Fashion Recommendation System
 
-A simple fashion recommendation system that can recommend the users items similar to something that they like.
+A simple fashion recommendation system that can recommend the users items similar to something that they like. A user can input a clothing image and he will get several similar looking recommendations.
 
 The tech-stack used:
 
