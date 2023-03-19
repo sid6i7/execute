@@ -1,7 +1,7 @@
 import sys
 sys.path.insert(0, 'models')
 from config import *
-from models.detector.detector import *
+from models.classifier.classify import *
 
 def find_similar(image, category):
     model = Classifier()
