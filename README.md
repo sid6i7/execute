@@ -12,22 +12,22 @@ The tech-stack used:
 
 ## Directory Structure
 
-├── backend
-│   ├── backend
-│   ├── model
-│   ├── manage.py
-│   
-├── frontend
-│   
-├── models
-│   ├── detector
-│       └── dataset
-│           └── images
-│           └── styles.csv
-│       
-├── config.py
-│   
-├── controller.py
+├── backend <br>
+│   ├── backend <br>
+│   ├── model <br>
+│   ├── manage.py <br>
+│   <br>
+├── frontend <br>
+│   <br>
+├── models <br>
+│   ├── detector <br>
+│       └── dataset <br>
+│           └── images <br>
+│           └── styles.csv <br>
+│    <br>   
+├── config.py <br>
+│   <br>
+├── controller.py <br>
 ## Steps
 
 1. **Data-Collection**: A kaggle [dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small) was used, it consists of about 44000 images spanning across 140 categories of clothing.
