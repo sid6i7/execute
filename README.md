@@ -16,15 +16,15 @@ The tech-stack used:
 │   ├── backend <br>
 │   ├── model <br>
 │   ├── manage.py <br>
-│   <br>
+│   
 ├── frontend <br>
-│   <br>
+│   
 ├── models <br>
 │   ├── detector <br>
 │       └── dataset <br>
 │           └── images <br>
 │           └── styles.csv <br>
-│    <br>   
+│     
 ├── config.py <br>
 │   <br>
 ├── controller.py <br>
